@@ -1,0 +1,58 @@
+.side-menu{
+    --background: #ff674c;
+    --width: 65%;
+}
+
+.container{
+    height: fit-content;
+}
+
+.menu-list{
+    background: #ffffff;
+}
+
+.menu-item{
+    --background: #ffffff;
+}
+
+.menu-item-label{
+	margin-left: 15px;
+}
+
+.speech-bubble{
+    background: #ffffff;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: none;
+}
+
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 20px solid #ffffff;
+    margin-left: 25%;
+    margin-top: -15px;
+}
+
+.orange-hyperlink{
+    color: #ff674c;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.orange-icon{
+    color: #ff674c;
+}
+
+.crab-illust{
+    margin-top: -20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}

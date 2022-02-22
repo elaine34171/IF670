@@ -1,0 +1,15 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TugasIndividu1_00000034171_Elaine",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 500,
+			"launchAutoHide": true,
+			"backgroundColor": "#ff674c",
+			"androidSplashResourceName": "joule_splash",
+			"androidScaleType": "CENTER_CROP"
+		}
+	}
+}

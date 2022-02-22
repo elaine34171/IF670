@@ -1,0 +1,96 @@
+.full-width{
+    width: 100%;
+}
+
+.one-row-card{
+    background-color: #ffffff;
+    margin-bottom: 5px;
+    height: 110px;
+}
+
+.card-img{
+    height: 110px;
+    width: 35%;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-left: -5px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-title{
+    margin-top: -90px;
+    margin-left: 40%;
+    margin-right: 3%;
+}
+
+.card-title-ii{
+    margin-top: -105px;
+    margin-left: 40%;
+    margin-right: 5%;
+}
+
+.card-title-iii{
+    margin-top: -90px;
+    margin-left: 40%;
+    margin-right: 5%;
+}
+
+.card-subtitle{
+    margin-top: -30px;
+    margin-left: -500%;
+    margin-right: 3%;
+    font-size: smaller;
+}
+
+.card-subtitle-ii{
+    margin-top: -45px;
+    margin-left: -500%;
+    margin-right: 30%;
+    font-size: smaller;
+}
+
+.card-subtitle-iii{
+    margin-top: -5px;
+    margin-left: -500%;
+    margin-right: 30%;
+    font-size: smaller;
+}
+
+.orange-circle{
+    height: 80px;
+    width: 80px;
+    background-color: #ff674c;
+    border-radius: 50%;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.range-label{
+    font-size: smaller;
+    color: #ffffff;
+    opacity: 50%;
+    margin-bottom: 0px;
+}
+
+.lower-range-label{
+    color: #ffffff;
+    margin: 0px;
+}
+
+.upper-range-label{
+    color: #ffffff;
+    margin-top: 0px;
+}
+
+.card-img-circle{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+    object-fit: cover;
+    object-position: center;
+}

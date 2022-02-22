@@ -1,0 +1,113 @@
+:root{
+    --ion-background-color: #eeeeee;
+    --ion-toolbar-background: #ffffff;
+}
+
+.text-transform-none{
+    text-transform: none;
+}
+
+.position-relative{
+    position: relative;
+}
+
+.position-absolute-bottom-left{
+    width: 50%;
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+}
+
+.position-absolute-bottom-right{
+    width: 50%;
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+.full-height{
+    height: 100%;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.white-hyperlink{
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.divider-line{
+    width: 100%;
+    height: 10px;
+    border-bottom: 1px solid #92949c;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.divider-line-title{
+    background-color: #eeeeee;
+    padding: 10px;
+}
+
+.three-col-card{
+    background-color: #ffffff;
+    margin: 2%;
+}
+
+.ion-card-img-small{
+    margin: 10%;
+}
+
+.one-row-card{
+    background-color: #ffffff;
+    margin: 2%;
+    height: 150px;
+}
+
+.card-img{
+    height: 150px;
+    width: 50%;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 10px 75px;
+    border-bottom-right-radius: 10px 75px;
+    margin-left: -5px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-title{
+    margin-top: -150px;
+    margin-left: 55%;
+    margin-right: 5%;
+}
+
+.view-card-icon{
+    margin-top: -35px;
+    margin-left: 90%;
+    opacity: 40%;
+}
+
+.fab{
+    --background: #ffffff;
+    --background-activated:var(--background);
+    --padding-bottom: 25px;
+    --padding-end: 25px;
+    --padding-start: 25px;
+    --padding-top: 25px;
+}
+
+.wide-fab{
+    --color: #ff674c;
+    --padding-bottom: 25px;
+    --padding-end: 90px;
+    --padding-start: 90px;
+    --padding-top: 25px;
+    --border-radius: 30px;
+
+    margin-left: -50px;
+}

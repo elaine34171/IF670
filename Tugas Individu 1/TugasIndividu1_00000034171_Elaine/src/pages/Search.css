@@ -1,0 +1,29 @@
+.text-transform-none{
+    text-transform: none;
+}
+
+.bg-color-white{
+    --background: #ffffff;
+}
+
+.padding-start-end{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.toolbar-underline{
+    --border-style: hidden hidden dashed hidden;
+    --border-color: #92949c;
+    --border-width: 1px;
+}
+
+.low-opacity-placeholder{
+    --placeholder-opacity: 40%;
+}
+
+.tab-button{
+    --color: #222428;
+    --color-checked: #222428;
+    --indicator-color: #222428;
+}
+
